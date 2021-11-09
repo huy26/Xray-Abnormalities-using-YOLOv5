@@ -1,0 +1,1 @@
+Go to directory: /web/yolov5 and run python flask_web.py
